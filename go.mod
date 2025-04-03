@@ -1,4 +1,4 @@
-module github.com/gotd/td
+module github.com/OpenTpen/td
 
 go 1.23.3
 toolchain go1.24.1
